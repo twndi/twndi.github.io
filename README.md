@@ -1,4 +1,4 @@
-# Projecte: Gestor de Tasques
+# Projecte: Loprepi Community
 
 Aquest és un projecte senzill de **Loprepi Communitt**.
 
